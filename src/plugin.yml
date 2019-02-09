@@ -1,0 +1,12 @@
+name: MLGRush
+version: 1.0
+authors: [6oogle, DelfikPro]
+main: pro.delfik.mlg.MLGRush
+softdepend: [LMAONetwork, ImplarioLib]
+commands:
+  mlgrush:
+    aliases: [mlg]
+  stickfight:
+    aliases: [palka, sf]
+  capitulate:
+    aliases: [c]
